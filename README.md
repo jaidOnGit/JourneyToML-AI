@@ -3,7 +3,7 @@ Journey to ML-AI Learnings Fundamentals, Algorithms and Projects
 
 Here’s the detailed Machine Learning and Artificial Intelligence roadmap formatted as a `README.md` file:
 
-```markdown
+
 # Machine Learning (ML) & Artificial Intelligence (AI) Roadmap
 
 This document provides a detailed step-by-step guide to learning ML and AI, including essential topics, resources, timelines, and project ideas.
