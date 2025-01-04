@@ -1,0 +1,115 @@
+Skills
+Machine Learning Algorithms
+
+Deep Learning Frameworks (TensorFlow, PyTorch)
+
+Programming Languages (Python, R, Java)
+
+Data Analysis and Visualization (Pandas, Matplotlib, Seaborn)
+
+Natural Language Processing (NLP)
+
+Computer Vision
+
+Big Data Technologies (Hadoop, Spark)
+
+Cloud Platforms (AWS, Google Cloud, Azure)
+
+SQL and NoSQL Databases
+============================
+AI Engineer resume
+Skills
+Machine Learning Algorithms
+
+Deep Learning Frameworks (TensorFlow, PyTorch)
+
+Programming Languages (Python, R, Java)
+
+Data Analysis and Visualization (Pandas, Matplotlib, Seaborn)
+
+Natural Language Processing (NLP)
+
+Computer Vision
+
+Cloud Platforms (AWS, Azure, Google Cloud)
+
+Model Deployment and Monitoring
+==============================
+ML Engineer resume
+
+Skills
+Machine Learning Algorithms
+
+Deep Learning Frameworks (TensorFlow, PyTorch)
+
+Programming Languages (Python, R, Java)
+
+Data Preprocessing and Feature Engineering
+
+Model Evaluation and Tuning
+
+Natural Language Processing (NLP)
+
+Data Visualization (Matplotlib, Seaborn)
+
+Cloud Services (AWS, Google Cloud, Azure)
+
+Version Control (Git)
+==========================================
+Data Engineer Resume
+
+
+Skills
+Data Warehousing (Redshift, BigQuery)
+
+ETL Processes (Apache NiFi, Talend)
+
+Big Data Technologies (Hadoop, Spark)
+
+Database Management (SQL, NoSQL)
+
+Programming Languages (Python, SQL, Scala)
+
+Data Modeling and Schema Design
+
+Cloud Platforms (AWS, Google Cloud, Azure)
+
+Data Integration and Transformation
+
+Performance Optimization
+==========================================
+Data Scientist resume
+Skills
+Data Analysis and Interpretation
+
+Machine Learning and Predictive Modeling
+
+Statistical Analysis (R, Python, SAS)
+
+Data Visualization (Tableau, Power BI, Matplotlib)
+
+Database Management (SQL, NoSQL)
+
+Big Data Technologies (Hadoop, Spark)
+
+Programming Languages (Python, R, SQL)
+
+Feature Engineering and Model Optimization
+
+A/B Testing and Experimentation
+
+Technical Skills:
+
+Programming Languages: Python, R, SQL
+
+Data Analysis: Pandas, NumPy, Scikit-learn
+
+Machine Learning: TensorFlow, Keras, PyTorch
+
+Data Visualization: Matplotlib, Seaborn, Tableau
+
+Big Data Technologies: Hadoop, Spark
+
+Databases: MySQL, PostgreSQL, MongoDB
+
+Tools: Jupyter, Git, Docker
